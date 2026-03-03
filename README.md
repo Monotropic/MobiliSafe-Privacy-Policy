@@ -7,7 +7,7 @@ This repository hosts the official Privacy Policy and Terms & Conditions for the
 
 The disclosures are hosted via GitHub Pages and can be accessed here:
 
-[**https://monotropic.github.io/MobiliSafe-Privacy-Policy/**](https://monotropic.github.io/MobiliSafe-Privacy-Policy/index.html)
+[**https://monotropic.github.io/MobiliSafe-Privacy-Policy/**](https://monotropic.github.io/MobiliSafe-Privacy-Policy/)
 
 *(Note: Replace the placeholders above with your actual GitHub username and repository name after publishing.)*
 
